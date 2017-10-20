@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xmlPrecoPrazo>
+	<Codigo>0</Codigo>
+	<Valor>0</Valor>
+	<PrazoEntrega>0</PrazoEntrega>
+	<ValorMaoPropria>0.00</ValorMaoPropria>
+	<ValorAvisoRecebimento>0.00</ValorAvisoRecebimento>
+	<ValorValorDeclarado>0.00</ValorValorDeclarado>
+	<EntregaDomiciliar>S</EntregaDomiciliar>
+	<EntregaSabado>S</EntregaSabado>
+	<Erro>true</Erro>
+	<MsgErro/>
+</xmlPrecoPrazo>

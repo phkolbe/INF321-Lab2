@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xmlPrecoPrazo>
+	<Codigo>40010</Codigo>
+	<Valor>13.2</Valor>
+	<PrazoEntrega>7</PrazoEntrega>
+	<ValorMaoPropria>0.00</ValorMaoPropria>
+	<ValorAvisoRecebimento>0.00</ValorAvisoRecebimento>
+	<ValorValorDeclarado>0.00</ValorValorDeclarado>
+	<EntregaDomiciliar>S</EntregaDomiciliar>
+	<EntregaSabado>S</EntregaSabado>
+	<Erro>0</Erro>
+	<MsgErro/>
+</xmlPrecoPrazo>
